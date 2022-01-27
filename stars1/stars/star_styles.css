@@ -10,6 +10,12 @@
     padding-top: 225px;
 }
 
+@media (max-width: 768) {
+    .text {
+        font-size: 100%;
+    }
+}
+
 .container {
     animation: show 15s;
 }

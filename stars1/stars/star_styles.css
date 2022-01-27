@@ -1,6 +1,7 @@
 * body {
     background-color: black;
     overflow: hidden;
+    margin: 0 auto;
 }
 
 .text {
@@ -13,6 +14,7 @@
 @media (max-width: 768) {
     .text {
         font-size: 100%;
+        padding-top: 200px;
     }
 }
 

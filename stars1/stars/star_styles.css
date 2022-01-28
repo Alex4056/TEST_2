@@ -5,17 +5,14 @@
 }
 
 .text {
-    font-size: 100px;
+    max-width: 1170px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+    font-size: 75px;
     color: white;
     text-align: center;
     padding-top: 225px;
-}
-
-@media (max-width: 768) {
-    .text {
-        font-size: 100%;
-        padding-top: 200px;
-    }
 }
 
 .container {
